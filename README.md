@@ -1,1 +1,1 @@
-# Depression-detection
+# depression-detection
